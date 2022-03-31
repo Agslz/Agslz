@@ -8,7 +8,7 @@
 
 ### How to reach me agsschulze@gmail.com
 
-![Agslz GitHub stats](https://github-readme-stats.vercel.app/api?username=Agslz&show_icons=true&theme=dark)
+![Agslz GitHub stats](https://github-readme-stats.vercel.app/api?username=Agslz&show_icons=true&theme=github_dark)
 
 ## 💻 OS
 
