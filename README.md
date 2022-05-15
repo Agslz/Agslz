@@ -39,7 +39,3 @@
 </p>
 
 ### *Creativity is contagious, pass it on*.
-
-
-
-
