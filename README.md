@@ -1,7 +1,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=5000&color=F7F5F4&center=true&vCenter=true&height=90&lines=%C2%A1Hey+%F0%9F%91%8B!+;I'm+Agustin+Schulze!;A+Java+Developer">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=5000&color=F7F5F4&center=true&vCenter=true&height=90&lines=%C2%A1Hey+%F0%9F%91%8B!+;I'm+Agustin+Schulze!;Welcome+to+my+GitHub">
 </p>
 
 ### I'm based in Mendoza, Argentina 🌍
