@@ -1,7 +1,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=5000&color=F7F5F4&center=true&vCenter=true&height=90&lines=%C2%A1Hey+%F0%9F%91%8B!+;I'm+Agustin+Schulze!;Welcome+to+my+GitHub">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=5000&color=F7F5F4&center=true&vCenter=true&height=90&lines=%C2%A1Hey+%F0%9F%91%8B!+;I'm+Agustin+Schulze!;Welcome+to+my+GitH">
 </p>
 
 ### I'm based in Mendoza, Argentina 🌍
@@ -21,10 +21,8 @@
 ## 💻 OS
 
 <div style="display: inline_block">
-
- <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>  
- <img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/>
-
+ <img align="center" alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> 
+ <img align="center" alt="Debian" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/>
 </div><br/>
 
 ## Technologies that I use 🚀
