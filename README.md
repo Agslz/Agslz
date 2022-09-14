@@ -14,8 +14,8 @@
 
 ### <h3 align="center" >My GitHub Stats</h3>
 
-<a href="http://www.github.com/Agslz"><img src="https://github-readme-stats.vercel.app/api?username=Agslz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Agslz's GitHub stats"/>
-<a href="http://www.github.com/Agslz"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agslz&layout=compact&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Agslz's GitHub stats" /></a></a>
+<a href="http://www.github.com/Agslz"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=Agslz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Agslz's GitHub stats"/>
+<a href="http://www.github.com/Agslz"><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agslz&layout=compact&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Agslz's GitHub stats" /></a></a>
 
 
 ## <h3>💻 OS</h3>
