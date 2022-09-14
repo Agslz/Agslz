@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://discord.com/users/Agustin#7843" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Agslz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/agustin-schulze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/soloundonnadie_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### <h3>Badges</h3>
+### <h3 align="center" >My GitHub Stats</h3>
 
-### <h3>My GitHub Stats</h3>
+<a href="http://www.github.com/Agslz"><img src="https://github-readme-stats.vercel.app/api?username=Agslz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Agslz's GitHub stats"/>
+<a href="http://www.github.com/Agslz"><img height="195px" width="510px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agslz&layout=compact&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Agslz's GitHub stats" /></a></a>
 
-<a href="http://www.github.com/Agslz"><img src="https://github-readme-stats.vercel.app/api?username=Agslz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Agslz's GitHub stats"/></a>
 
 ## <h3>💻 OS</h3>
 
