@@ -17,7 +17,7 @@
 <a href="http://www.github.com/Agslz"><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Agslz&count_private=true&theme=react" alt="Agslz's GitHub stats"/><a/>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="http://www.github.com/Agslz">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agslz&layout=compact&theme=react"/>
 </a>
 
