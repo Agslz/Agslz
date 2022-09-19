@@ -23,8 +23,12 @@
 
 ## <h3>💻 OS</h3>
 
- <img align="left" alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> 
- <img align="center" alt="Debian" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/>
+<p align="left"> 
+ <img align= alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> 
+ <img align= alt="Debian" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/>
+</p>
+
+
 
 ## <h3>Technologies that I use 🚀</h3>
 
