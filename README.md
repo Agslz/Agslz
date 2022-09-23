@@ -6,7 +6,7 @@
 
 ## <h3 align="left">I'm based in Mendoza, Argentina 🌍</h3>
 
-### <h3>How to reach me 📫 agsschulze@gmail.com</h3>
+ <a href="mailto:agsschulze@gmail.com"><h3>How to reach me 📫</h3></a>
 
 ### <h3>Socials</h3>
 
