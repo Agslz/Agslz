@@ -6,7 +6,7 @@
 
 ## <h3 align="left">I'm based in Mendoza, Argentina 🌍</h3>
 
- <a href="mailto:agsschulze@gmail.com"><h3>How to reach me 📫</h3></a>
+<a href="mailto:agsschulze@gmail.com"><h3>How to reach me 📫</h3></a>
 
 ### <h3>Socials</h3>
 
@@ -14,11 +14,10 @@
 
 ### <h3 align="center" >My GitHub Stats</h3>
 
-<a href="http://www.github.com/Agslz"><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Agslz&count_private=true&theme=react" alt="Agslz's GitHub stats"/><a/>
-
+<a href="http://www.github.com/Agslz"><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Agslz&count_private=true&theme=nord" alt="Agslz's GitHub stats"/><a/>
 
 <a href="http://www.github.com/Agslz">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agslz&layout=compact&theme=react"/>
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agslz&layout=compact&theme=nord"/>
 </a>
 
 ## <h3>💻 OS</h3>
@@ -27,8 +26,6 @@
  <img align= alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> 
  <img align= alt="Debian" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/>
 </p>
-
-
 
 ## <h3>Technologies that I use 🚀</h3>
 
@@ -42,4 +39,3 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a></p>
 
 ### *<h4 align="center">Creativity is contagious, pass it on<h4>*
-
