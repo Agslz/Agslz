@@ -14,10 +14,10 @@
 
 ### <h3 align="center" >My GitHub Stats</h3>
 
-<a href="http://www.github.com/Agslz"><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Agslz&count_private=true&theme=react" alt="Agslz's GitHub stats"/><a/>
+<a href="http://www.github.com/Agslz"><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Agslz&count_private=true&theme=github_dark" alt="Agslz's GitHub stats"/><a/>
 
 <a href="http://www.github.com/Agslz">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agslz&layout=compact&theme=react"/>
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agslz&layout=compact&theme=github_dark"/>
 </a>
 
 ## <h3>💻 OS</h3>
