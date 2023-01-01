@@ -1,4 +1,4 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![Banner](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=5000&color=F7F5F4&center=true&vCenter=true&height=90&lines=%C2%A1Hey+%F0%9F%91%8B!+;I'm+Agustin+Schulze!+;A+FullStack+Developer;Welcome+to+my+GitHub">
@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://discord.com/users/Agslz#1816" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Agslz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/agustin-schulze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### <h3 align="center" >My GitHub Stats</h3>
+### <h3 align="center">My GitHub Stats</h3>
 
 <a href="http://www.github.com/Agslz"><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Agslz&count_private=true&theme=github_dark" alt="Agslz's GitHub stats"/><a/>
 
