@@ -6,7 +6,7 @@
 
 ## <h3 align="center">I'm based in Mendoza, Argentina 🌍</h3>
 
-### <h3 align="center">I’m currently working on [News Proyect for Egg Cooperation](https://github.com/Agslz/egg-news)</h3>
+### <h3 align="center">I’m currently working on [My responsive portfolio](https://github.com/Agslz/responsive-portfolio)</h3>
 
 <div align="center" class="socials">
 <a href="mailto:agsschulze@gmail.com"><h3>How to reach me 📫</h3></a>
