@@ -6,12 +6,12 @@
 
 ## <h3 align="center">I'm based in Mendoza, Argentina 🌍</h3>
 
-### <h3 align="center">I’m currently working on [Services Proyect](https://github.com/Juli-CVidal/services-project)</h3>
+### <h3 target="_blank" align="center">I’m currently working on [Services Proyect](https://github.com/Juli-CVidal/services-project)</h3>
 
 <div align="center" class="socials">
 <a href="mailto:agsschulze@gmail.com"><h3>How to reach me 📫</h3></a>
   
-<h4 align="center">Have you seen my <a href="https://agustinschulze.com.ar/" target="_blank">portfolio</a>?</h4> 
+<h4 align="center">Have you seen my <a target="_blank" href="https://agustinschulze.com.ar/">portfolio</a>?</h4> 
 
 <p align="center"> <a href="https://discord.com/users/Agslz#1816" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Agslz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/agustin-schulze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 </div>
