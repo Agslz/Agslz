@@ -6,7 +6,7 @@
 
 ## <h3 align="center">I'm based in Mendoza, Argentina 🌍</h3>
 
-### <h3 target="_blank" align="center">I’m currently working on [Services Proyect](https://github.com/Juli-CVidal/services-project)</h3>
+### <h3 target="_blank" align="center">I’m currently working on [Inventory Control](https://github.com/Agslz/inventory-control-api-rest)</h3>
 
 <div align="center" class="socials">
 <a href="mailto:agsschulze@gmail.com"><h3>How to reach me 📫</h3></a>
