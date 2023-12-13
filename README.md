@@ -18,12 +18,20 @@
 
 ### <h3 align="center">My GitHub Stats</h3>
 
-<a href="http://www.github.com/Agslz"><img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=Agslz&count_private=true&theme=github_dark" alt="Agslz's GitHub stats"/><a/>
+<div align="center">
+  <a href="http://www.github.com/Agslz">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Agslz&count_private=true&theme=github_dark" alt="Agslz's GitHub stats"/>
+  </a>
+</div>
 
-<a href="http://www.github.com/Agslz">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agslz&layout=compact&theme=github_dark"/>
-</a>
-  
+<br/>
+
+<div align="center">
+  <a href="http://www.github.com/Agslz">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agslz&layout=compact&theme=github_dark"/>
+  </a>
+</div>
+
   <div align="center" class="OS">
   
   ## <h3 align="center">💻 OS</h3>
