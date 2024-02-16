@@ -6,7 +6,7 @@
 
 ## <h3 align="center">I'm based in Mendoza, Argentina 🌍</h3>
 
-### <h3 target="_blank" align="center">I’m currently working on [NextJS Ecommerce Store](https://github.com/Agslz/nextjs-react-ecommerce-store)</h3>
+### <h3 target="_blank" align="center">I’m currently working on [Microservices on Java](https://github.com/Agslz/java-microservices)</h3>
 
 <div align="center" class="socials">
 <a href="mailto:agsschulze@gmail.com"><h3>How to reach me 📫</h3></a>
