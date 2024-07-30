@@ -1,17 +1,27 @@
 ![Banner](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=5000&color=F7F5F4&center=true&vCenter=true&height=90&lines=%C2%A1Hey+%F0%9F%91%8B!+;I'm+Agustin+Schulze!+;A+FullStack+Developer;Welcome+to+my+GitHub">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=5000&color=F7F5F4&center=true&vCenter=true&height=90&lines=%C2%A1Hey+%F0%9F%91%8B!+;I'm+Agustin+Schulze!+;A+FullStack+Developer;Welcome+to+my+GitHub">
 </p>
 
 ## <h3 align="center">I'm based in Mendoza, Argentina 🌍</h3>
 
-### <h3 target="_blank" align="center">I’m currently working on [Book Social Newtork](https://github.com/Agslz/book-social-network) and [Microservices on SpringBoot](https://github.com/Agslz/springboot-microservices)</h3>
+### <h3 align="center">I’m currently working on [Book Social Network](https://github.com/Agslz/book-social-network) and [Microservices on SpringBoot](https://github.com/Agslz/springboot-microservices)</h3>
 
 <div align="center" class="socials">
-<a href="mailto:agsschulze@gmail.com"><h3>How to reach me 📫</h3></a>
+  <a href="mailto:agsschulze@gmail.com"><h3>How to reach me 📫</h3></a>
   
-<p align="center"> <a href="https://discord.com/users/agslz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Agslz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/agustin-schulze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+  <p align="center">
+    <a href="https://discord.com/users/agslz" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+    </a>
+    <a href="https://www.github.com/Agslz" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+    </a>
+    <a href="https://www.linkedin.com/in/agustin-schulze" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </a>
+  </p>
 </div>
 
 <h4 align="center">Have you seen my <a target="_blank" href="https://agslz.github.io/portfolio/">portfolio</a>?</h4> 
@@ -32,17 +42,16 @@
   </a>
 </div>
 
-  <div align="center" class="OS">
-  
-  ## <h3 align="center">💻 OS</h3>
+<div align="center" class="OS">
+  <h3 align="center">💻 OS</h3>
 
-<p align="center"> 
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a> 
-<img  alt="Debian" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/>
-</p>
-
+  <p align="center"> 
+    <a href="https://www.linux.org/" target="_blank">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />
+    </a> 
+    <img alt="Debian" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/>
+  </p>
 </div>
-
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -119,24 +128,22 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-      </a>
-      <br/>Kubernetes
-    </td>
-    <td align="center">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
       </a>
       <br/>MySQL
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
       </a>
       <br/>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Espacio en blanco -->
+      <img src="https://via.placeholder.com/40" alt="placeholder" width="40" height="40"/>
     </td>
     <td align="center">
       <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
@@ -154,26 +161,4 @@
     </td>
     <td align="center">
       <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-      </a>
-      <br/>Spring
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-      </a>
-      <br/>Tailwind CSS
-    </td>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-      </a>
-      <br/>TypeScript
-    </td>
-  </tr>
-</table>
-
-
-### *<h4 align="center">Creativity is contagious, pass it on<h4>*
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
