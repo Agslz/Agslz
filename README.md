@@ -24,7 +24,7 @@
   </p>
 </div>
 
-<h4 align="center">Have you seen my <a target="_blank" href="https://agslz.github.io/portfolio/">portfolio</a>?</h4> 
+<h4 align="center">Have you seen my <a target="_blank" href="https://agslz.github.io/">portfolio</a>?</h4> 
 
 ### <h3 align="center">My GitHub Stats</h3>
 
