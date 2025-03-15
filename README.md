@@ -6,7 +6,8 @@
 
 ## <h3 align="center">I'm based in Mendoza, Argentina 🌍</h3>
 
-### <h3 align="center">I’m currently working on [Book Social Network](https://github.com/Agslz/book-social-network) and [Microservices on SpringBoot](https://github.com/Agslz/springboot-microservices)</h3>
+### <h3 align="center">I’m currently studying for [Java SE 11 Developer (1Z0-819) certification](https://education.oracle.com/java-se-11-developer/pexam_1Z0-819)</h3>
+
 
 <div align="center" class="socials">
   <a href="mailto:agsschulze@gmail.com"><h3>How to reach me 📫</h3></a>
