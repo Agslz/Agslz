@@ -27,22 +27,6 @@
 
 <h4 align="center">Have you seen my <a target="_blank" href="https://agslz.github.io/">portfolio</a>?</h4> 
 
-### <h3 align="center">My GitHub Stats</h3>
-
-<div align="center">
-  <a href="http://www.github.com/Agslz">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Agslz&count_private=true&theme=github_dark" alt="Agslz's GitHub stats"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="http://www.github.com/Agslz">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agslz&layout=compact&theme=github_dark"/>
-  </a>
-</div>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <table align="center">
