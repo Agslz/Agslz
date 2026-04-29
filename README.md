@@ -2,12 +2,6 @@
 
 ## <h3 align="center">Full Stack Developer orientado a Backend</h3>
 
----
-
-### <h3 align="center">Preparándome para la certificación Java SE 11 (1Z0-819)</h3>
-
----
-
 ### 🧠 Sobre mí
 
 Desarrollador Full Stack con foco en backend, orientado a la construcción de sistemas robustos y mantenimiento de aplicaciones en producción.
