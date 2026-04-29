@@ -1,161 +1,107 @@
 ![Banner](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
+## <h3 align="center">Full Stack Developer orientado a Backend</h3>
+
+---
+
+### <h3 align="center">Preparándome para la certificación Java SE 11 (1Z0-819)</h3>
+
+---
+
+### 🧠 Sobre mí
+
+Desarrollador Full Stack con foco en backend, orientado a la construcción de sistemas robustos y mantenimiento de aplicaciones en producción.
+
+Experiencia en APIs, procesamiento de datos, integraciones y resolución de problemas en entornos reales.
+
+---
+
+### ⚙️ Qué hago
+
+- Desarrollo de APIs REST  
+- Backend con Java y Spring (incluyendo entornos legacy)  
+- Optimización de consultas y performance  
+- Integración con servicios externos y ETLs  
+- Debugging y resolución de errores en producción  
+- Generación de reportes y manejo de datos  
+
+---
+
+<h3 align="center">Contacto</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=5000&color=F7F5F4&center=true&vCenter=true&height=90&lines=%C2%A1Hey+%F0%9F%91%8B!+;I'm+Agustin+Schulze!+;A+FullStack+Developer;Welcome+to+my+GitHub">
+  <a href="mailto:agsschulze@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.github.com/Agslz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/agustin-schulze" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
-## <h3 align="center">I'm based in Mendoza, Argentina 🌍</h3>
+<h4 align="center">Portfolio: <a target="_blank" href="https://agslz.github.io/">https://agslz.github.io/</a></h4> 
 
-### <h3 align="center">I’m currently studying for [Java SE 11 Developer (1Z0-819) certification](https://education.oracle.com/java-se-11-developer/pexam_1Z0-819)</h3>
+---
 
-
-<div align="center" class="socials">
-  <a href="mailto:agsschulze@gmail.com"><h3>How to reach me 📫</h3></a>
-  
-  <p align="center">
-    <a href="https://discord.com/users/agslz" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-    </a>
-    <a href="https://www.github.com/Agslz" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
-    </a>
-    <a href="https://www.linkedin.com/in/agustin-schulze" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </a>
-  </p>
-</div>
-
-<h4 align="center">Have you seen my <a target="_blank" href="https://agslz.github.io/">portfolio</a>?</h4> 
-
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tecnologías</h3>
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-      </a>
-      <br/>Angular
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-      </a>
-      <br/>AWS
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-      </a>
-      <br/>Bootstrap
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
-      <br/>CSS3
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-      </a>
-      <br/>Docker
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      </a>
-      <br/>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://grafana.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-      </a>
-      <br/>Grafana
-    </td>
-    <td align="center">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a>
-      <br/>HTML5
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
       <br/>Java
     </td>
     <td align="center">
-      <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-      </a>
-      <br/>Jenkins
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-      </a>
-      <br/>Kafka
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+      <br/>Spring
     </td>
     <td align="center">
-      <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-      </a>
-      <br/>Kubernetes
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-      </a>
-      <br/>Linux
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+      <br/>MySQL
     </td>
     <td align="center">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-      </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
       <br/>MongoDB
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-      <br/>MySQL
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+      <br/>React
     </td>
     <td align="center">
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-      </a>
-      <br/>PostgreSQL
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+      <br/>JavaScript (ES5)
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+      <br/>HTML5
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+      <br/>CSS3
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-      </a>
-      <br/>React
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+      <br/>Docker
     </td>
     <td align="center">
-      <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-      </a>
-      <br/>Spring
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+      <br/>Git
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+      <br/>Linux
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40"/>
+      <br/>AWS
     </td>
   </tr>
 </table>
-
-
